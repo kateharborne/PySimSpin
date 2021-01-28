@@ -1,6 +1,0 @@
-H0      = 68.4              # 
-OMEGA_M = 0.301
-OMEGA_L = 0.699
-OMEGA_R = 8.985075e-05
-SIGMA_8 = 0.793
-LUM_SOL = 3.827e33
